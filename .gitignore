@@ -1,0 +1,15 @@
+# 凭证：等价账号登录态，绝不入库
+raw_cookie.txt
+cookies.txt
+*.cookies.txt
+
+# 运行产物
+*.log
+__pycache__/
+*.pyc
+.venv/
+out/
+rawdbg/
+raw_check.json
+state.json
+win_state.json
